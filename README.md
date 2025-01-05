@@ -6,7 +6,7 @@
 </div>
 <div align="center" style="background: url('https://github.com/Tanmyname/Tanmyname/blob/main/icon.jpg') no-repeat center center; background-size: cover; padding: 100px 0; color: white; border-radius: 10px;">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Helllo+World +👋;+I'm+Tan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World +👋;+I'm+Tan!;" />
   </h1>
   <h3 align="center">I'am programer from indonesia  🇮🇩</h3>
 </div>
