@@ -23,7 +23,7 @@
 <!-- Bagian Tools dan Skill -->
 <h2 align="center" style="color: white;">The programming language I learned</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 </div>
 
 <hr/>
