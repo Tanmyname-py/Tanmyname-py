@@ -16,8 +16,7 @@
   🔭 I’m a student<br>
   🌱 I’m the beginner programer<br>
   💬 Hello world for my first code <br>
-  ⚡ Fun fact: I like drinks coffe anime,manga,and game:) happy for my live
-</div>
+  ⚡ Fun fact: Likes drinking coffee☕, reading manga📚 and watching anime</div>
 <br/>
 <hr/>
 <!-- Bagian Tools dan Skill -->
