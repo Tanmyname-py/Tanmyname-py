@@ -44,9 +44,9 @@
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Tanmyname-py&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmyname-py&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312v7j4pwza6kapdb3hm3umqapnu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" alt="spotify" align="right"/>
 </div>
 <br>
 <div align="center">
 <a href='https://saweria.co/Supporttann' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312v7j4pwza6kapdb3hm3umqapnu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" alt="spotify" align="right"/>
