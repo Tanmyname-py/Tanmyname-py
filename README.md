@@ -10,17 +10,6 @@
   <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tan!;" />
   </h1>
-  <h3 align="center">I'am programer from indonesia  🇮🇩</h3>
-</div>
-
-<!-- Section Konten Utama dengan Latar Gelap -->
-<div align="center" style="background-color: #222222; color: white; padding: 20px; border-radius: 10px;">
-  🔭 I’m a student<br>
-  🌱 I’m the beginner programer<br>
-  💬 learn to tame snakes 🐍<br>
-  ⚡ Fun fact: Likes drinking coffee☕, reading manga📚 and watching anime</div>
-<br/>
-<hr/>
 <!-- Bagian Tools dan Skill -->
 <h2 align="center" style="color: white;">The programming language I learned</h2>
 <div align="center">
