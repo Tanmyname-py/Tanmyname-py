@@ -14,6 +14,7 @@
 <h2 align="center" style="color: white;">The programming language I learned</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js" />
+<script src="https://gist.github.com/Tanmyname-py/578ba7e6f6a3e3bded61270241b72052.js"></script>
 </div>
 
 <hr/>
