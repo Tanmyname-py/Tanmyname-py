@@ -14,8 +14,6 @@
 <h2 align="center" style="color: white;">The programming language I learned</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js" />
-
-<script src="https://gist.github.com/Tanmyname-py/578ba7e6f6a3e3bded61270241b72052.js">Hello</script>
 </div>
 
 <hr/>
@@ -37,3 +35,4 @@
 <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmyname-py&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312v7j4pwza6kapdb3hm3umqapnu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" alt="spotify" align="right"/>
 </div>
+<script src="https://gist.github.com/Tanmyname-py/578ba7e6f6a3e3bded61270241b72052.js">Hello</script>
