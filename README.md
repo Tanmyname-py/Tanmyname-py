@@ -1,7 +1,7 @@
 <!--Gambar Background Header -->
 <div align="center" style="background-color: #222222; padding: 40px; color: white; border-radius: 10px;">
   <h3>HI</h3>
-  <img src="https://media1.tenor.com/m/GHSF-v48hVwAAAAd/anime-found.gif" alt="Animated GIF" width="600px" />
+  <img src="https://64.media.tumblr.com/269f297ea7648267114771c297d7586d/1fd5759dff4ff362-c7/s640x960/44406d7b28d364009056496bbb28635fae5d814c.gifv" alt="Animated GIF" width="600px" />
   <br/><br/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-IWt_xifOTf8drhOJZT6Vo1Et0GUWC5XkPr2dERKH3xAPcEzZEAtSCs&s=10" alt="Anime_img" width="600px" />
   <br/><br/>
